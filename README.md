@@ -22,6 +22,7 @@
  - [PHP: Integração com MySQL - iMedia Brasil](back-end/php-integracao_mysql-imedia.pdf)
  - [PHP: Introdução a Programação Orientada a Objetos - iMedia Brasil](back-end/php-introducao_poo-imedia.pdf)
  - [PHP: MVC - MX Cursos](back-end/php-mvc-mxcursos.pdf)
+ - [Python: Mundo 01 Fundamentos - Curso em Vídeo](back-end/python-mundo1_fundamentos-cursoemvideo.pdf)
 
 ## outros
 
