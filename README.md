@@ -2,7 +2,6 @@
 
 [front-end](#front-end) ; [back-end](#back-end) ; [outros](#outros)
 
-----------
 ## front-end
 
  - [Javascript Essencial - iMedia Brasil](front-end/js-essencial-imedia.pdf)
@@ -15,7 +14,6 @@
  - [Google Chrome Developer Tools - TreinaWeb](front-end/chrome-developertools-treinaweb.pdf)
  - [Wordpress: Criação de um tema do zero - Alura](front-end/wordpress-criando_tema-alura.pdf)
 
-----------
 ## back-end
 
  - [Java 1: Primeiros Passos - Alura](back-end/java-1-alura.pdf)
@@ -25,7 +23,6 @@
  - [PHP: Introdução a Programação Orientada a Objetos - iMedia Brasil](back-end/php-introducao_poo-imedia.pdf)
  - [PHP: MVC - MX Cursos](back-end/php-mvc-mxcursos.pdf)
 
-----------
 ## outros
 
  - [Git: Controle de versão - TreinaWeb](git-completo-treinaweb.pdf)
