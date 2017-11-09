@@ -8,6 +8,7 @@
  - [Javascript Programando na Linguagem da Web - Alura](front-end/js-programando_linguagem-alura.pdf)
  - [Javascript Básico - TreinaWeb](front-end/js-basico-treinaweb.pdf)
  - [Javascript Intermediário - TreinaWeb](front-end/js-intermediario-treinaweb.pdf)
+ - [Javascript Avançado - TreinaWeb](front-end/js-avancado-treinaweb.pdf)
  - [CSS Sass Avançado - TreinaWeb](front-end/css-sass_avancado-treinaweb.pdf)
  - [Performance Web 1: Otimizando o Front-End - Alura](front-end/performance-otimizando_frontend-alura.pdf)
  - [HTTP: Entendendo a web por debaixo dos panos - Alura](front-end/http-entendendo_web-alura.pdf)
