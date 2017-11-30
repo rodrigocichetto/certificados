@@ -9,9 +9,12 @@
  - [Javascript Básico - TreinaWeb](front-end/js-basico-treinaweb.pdf)
  - [Javascript Intermediário - TreinaWeb](front-end/js-intermediario-treinaweb.pdf)
  - [Javascript Avançado - TreinaWeb](front-end/js-avancado-treinaweb.pdf)
+ - [ECMAScript 2015: Novidades do JavaScript - TreinaWeb](front-end/js-ecma2015_completo-treinaweb.pdf)
  - [CSS Sass Avançado - TreinaWeb](front-end/css-sass_avancado-treinaweb.pdf)
  - [Performance Web 1: Otimizando o Front-End - Alura](front-end/performance-otimizando_frontend-alura.pdf)
  - [HTTP: Entendendo a web por debaixo dos panos - Alura](front-end/http-entendendo_web-alura.pdf)
+ - [Ionic 3: Para iniciantes - Udemy](front-end/ionic-3-udemy.pdf)
+ - [Vue.js: Criando interfaces web - TreinaWeb](front-end/vuejs-criando_interfaces_web-treinaweb.pdf)
  - [Google Chrome Developer Tools - TreinaWeb](front-end/chrome-developertools-treinaweb.pdf)
  - [Wordpress: Criação de um tema do zero - Alura](front-end/wordpress-criando_tema-alura.pdf)
 
@@ -29,3 +32,4 @@
 
  - [Git: Controle de versão - TreinaWeb](git-completo-treinaweb.pdf)
  - [Oracle: Aprenda SQL usando esse famoso Banco de Dados - Alura](oracle-aprenda_sql-alura.pdf)
+ - [Shell Script: Básico - TreinaWeb](shell-basico-treinaweb.pdf)
