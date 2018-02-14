@@ -13,6 +13,9 @@
  - [CSS Sass Avançado - TreinaWeb](front-end/css-sass_avancado-treinaweb.pdf)
  - [Performance Web 1: Otimizando o Front-End - Alura](front-end/performance-otimizando_frontend-alura.pdf)
  - [HTTP: Entendendo a web por debaixo dos panos - Alura](front-end/http-entendendo_web-alura.pdf)
+ - [RxJS: Programação reativa - TreinaWeb](front-end/rxjs-programacao_reativa-treinaweb.pdf)
+ - [Angular: Criação de interfaces web - TreinaWeb](front-end/angular-criando_interfaces_web-treinaweb.pdf)
+ - [Ionic 2: Desenvolvendo aplicações mobile - TreinaWeb](front-end/ionic2-completo-treinaweb.pdf)
  - [Ionic 3: Para iniciantes - Udemy](front-end/ionic-3-udemy.pdf)
  - [Vue.js: Criando interfaces web - TreinaWeb](front-end/vuejs-criando_interfaces_web-treinaweb.pdf)
  - [Google Chrome Developer Tools - TreinaWeb](front-end/chrome-developertools-treinaweb.pdf)
@@ -20,6 +23,8 @@
 
 ## back-end
 
+ - [TypeScript: Primeiros Passos Básico - TreinaWeb](back-end/typescript-basico-treinaweb.pdf)
+ - [Node.js: Completo - TreinaWeb](back-end/nodejs-completo-treinaweb.pdf)
  - [Java 1: Primeiros Passos - Alura](back-end/java-1-alura.pdf)
  - [Java 2: Orientação a Objetos - Alura](back-end/java-2-alura.pdf)
  - [Java 3: Principais APIS e Bibliotecas - Alura](back-end/java-3-alura.pdf)
@@ -31,5 +36,6 @@
 ## outros
 
  - [Git: Controle de versão - TreinaWeb](git-completo-treinaweb.pdf)
+ - [Docker: Primeiros Passos - TreinaWeb](docker-primeiros_passos-treinaweb.pdf)
  - [Oracle: Aprenda SQL usando esse famoso Banco de Dados - Alura](oracle-aprenda_sql-alura.pdf)
  - [Shell Script: Básico - TreinaWeb](shell-basico-treinaweb.pdf)
