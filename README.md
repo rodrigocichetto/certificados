@@ -6,7 +6,7 @@
  
 [Formação - React - Alura](mobile/formacao-react-alura.pdf)
 
----
+___
 - [React Native: Parte 1 - Alura](mobile/reactnative-parte_1-alura.pdf)
 - [React Native: Parte 2 - Alura](mobile/reactnative-parte_2-alura.pdf)
 - [Ionic 2: Desenvolvendo aplicações mobile - TreinaWeb](mobile/ionic2-completo-treinaweb.pdf)
@@ -16,7 +16,7 @@
 
 [Formação - Front-end - Alura](front-end/formacao-frontend-alura.pdf)
 
----
+___
  - [Javascript Essencial - iMedia Brasil](front-end/js-essencial-imedia.pdf)
  - [Javascript Programando na Linguagem da Web - Alura](front-end/js-programando_linguagem-alura.pdf)
  - [Javascript Básico - TreinaWeb](front-end/js-basico-treinaweb.pdf)
