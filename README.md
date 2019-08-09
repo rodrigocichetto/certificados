@@ -3,12 +3,18 @@
 [mobile](#mobile) ; [front-end](#front-end) ; [back-end](#back-end) ; [outros](#outros)
 
 ## mobile
-
+ 
+ - [Formação - React - Alura](mobile/formacao-react-alura.pdf)
+---
 - [React Native: Parte 1 - Alura](mobile/reactnative-parte_1-alura.pdf)
 - [React Native: Parte 2 - Alura](mobile/reactnative-parte_2-alura.pdf)
+- [Ionic 2: Desenvolvendo aplicações mobile - TreinaWeb](mobile/ionic2-completo-treinaweb.pdf)
+- [Ionic 3: Para iniciantes - Udemy](mobile/ionic-3-udemy.pdf)
 
 ## front-end
 
+ - [Formação - Front-end - Alura](front-end/formacao-frontend-alura.pdf)
+---
  - [Javascript Essencial - iMedia Brasil](front-end/js-essencial-imedia.pdf)
  - [Javascript Programando na Linguagem da Web - Alura](front-end/js-programando_linguagem-alura.pdf)
  - [Javascript Básico - TreinaWeb](front-end/js-basico-treinaweb.pdf)
@@ -20,13 +26,14 @@
  - [ECMAScript 2015: Novidades do JavaScript - TreinaWeb](front-end/js-ecma2015_completo-treinaweb.pdf)
  - [Web Design Responsivo - Alura](front-end/webdesign-responsivo-alura.pdf)
  - [CSS Sass Avançado - TreinaWeb](front-end/css-sass_avancado-treinaweb.pdf)
+ - [Sass: Descomplicando o CSS - Alura](front-end/sass-descomplicando_css-alura.pdf)
+ - [Flexbox: Posicione elementos na tela - Alura](front-end/flexbox-posicione_elementos-alura.pdf)
  - [Performance Web 1: Otimizando o Front-End - Alura](front-end/performance-otimizando_frontend-alura.pdf)
  - [HTTP: Entendendo a web por debaixo dos panos - Alura](front-end/http-entendendo_web-alura.pdf)
  - [RxJS: Programação reativa - TreinaWeb](front-end/rxjs-programacao_reativa-treinaweb.pdf)
  - [AngularJS: Crie webapps poderosas - Alura](front-end/angularjs-crie_webapps_poderosas-alura.pdf)
+ - [TypeScript: Primeiros Passos Básico - TreinaWeb](front-end/typescript-basico-treinaweb.pdf)
  - [Angular: Criação de interfaces web - TreinaWeb](front-end/angular-criando_interfaces_web-treinaweb.pdf)
- - [Ionic 2: Desenvolvendo aplicações mobile - TreinaWeb](front-end/ionic2-completo-treinaweb.pdf)
- - [Ionic 3: Para iniciantes - Udemy](front-end/ionic-3-udemy.pdf)
  - [Vue.js: Criando interfaces web - TreinaWeb](front-end/vuejs-criando_interfaces_web-treinaweb.pdf)
  - [Google Chrome Developer Tools - TreinaWeb](front-end/chrome-developertools-treinaweb.pdf)
  - [jQuery: Parte 1 - Alura](front-end/jquery-parte_1-alura.pdf)
@@ -35,7 +42,6 @@
 
 ## back-end
 
- - [TypeScript: Primeiros Passos Básico - TreinaWeb](back-end/typescript-basico-treinaweb.pdf)
  - [Node.js: Completo - TreinaWeb](back-end/nodejs-completo-treinaweb.pdf)
  - [Java 1: Primeiros Passos - Alura](back-end/java-1-alura.pdf)
  - [Java 2: Orientação a Objetos - Alura](back-end/java-2-alura.pdf)
